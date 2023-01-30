@@ -2,7 +2,7 @@
 
 Deviant News is a sample news feed application (API) built using .NET Core and Entity Framework Core.
 
-> **Warning**
+> **Warning**  
 > This repo is started on 2023-01-30, So its in progress.
 
 ## Getting Started
